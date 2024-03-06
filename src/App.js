@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <WeatherSearch />
+      <a href="https://github.com/BeccaCS/react-weather-app">GitHub Link </a>
     </div>
   );
 }
